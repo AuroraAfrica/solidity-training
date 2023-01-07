@@ -3,11 +3,11 @@
 </div>
 
 
-<h1>These is the official github  account of Aurora Africa a thriving Community in   Aurora Ecosystem.</h1>
-<p style="text-align:center">Our Aim to  training as many people as possible into becoming a smart contract developer that is confident in building smart contract on the aurora network.These github repository contains all the smart contract that we will be wrting in our tutorial video.</p>
+<h1>These are the official GitHub  account of Aurora Africa a thriving Community in the Aurora Ecosystem.</h1>
+<p style="text-align:center">We Aim at training as many people as possible into becoming smart contract developers that are confident in building smarcontractsct on the Aurora network. This GitHub repository contains all the smart contracts that we will be writing in our tutorial video.</p>
 
 <h5>
-Don'f forget to follow us on all of our social handles  to get latest update on  developer videso and all that is going on within the aurora ecosystem:
+Don't forget to follow us on all of our social handles  to get the latest updates on  developer videos and all that is going on within the Aurora Ecosystem:
 </h5>
 <div>
 
@@ -25,6 +25,6 @@ Don'f forget to follow us on all of our social handles  to get latest update on 
 
 </div>
 
-<p>Check out our solidity trainig sheme of work  <a href="https://docs.google.com/document/d/1Qq5HPUeIrAM1SmNvHLz2o5YdYNEG2oWgVERfmRK4mcU/edit?usp=sharing">check out our scheme of work</a></p>
+<p>Check out our solidity training scheme of work  <a href="https://docs.google.com/document/d/1Qq5HPUeIrAM1SmNvHLz2o5YdYNEG2oWgVERfmRK4mcU/edit?usp=sharing">check out our scheme of work</a></p>
 
 
